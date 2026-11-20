@@ -1,9 +1,4 @@
-# Estadística Teórica — Primer cuatrimestre de 2014
-
-## Equipo docente
-
-- **Clases teóricas:** Ana Bianco
-- **Clases prácticas:** Marina Valdora
+# Estadística Teorica — Primer cuatrimestre de 2014
 
 ## Prácticas
 
